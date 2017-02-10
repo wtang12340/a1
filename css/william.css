@@ -1,0 +1,10 @@
+body{
+    text-align: center; 
+    background-color: black;
+    color: yellow;
+    font-family: Arial; 
+}
+
+p{
+    padding: 0 20% 0 20%; 
+}
