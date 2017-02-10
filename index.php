@@ -1,3 +1,13 @@
+<?php 
+
+$quotes = 
+[
+    'You can do anything, but not everything. —David Allen',
+    'You miss 100 percent of the shots you never take. —Wayne Gretzky',
+    'Even if you’re on the right track, you’ll get run over if you just sit there. —Will Roger',
+]
+
+?>
 
 
 <!DOCTYPE html>
@@ -21,6 +31,9 @@
 		</p>
 		<h2>Random Quote</h2>
 		<blockquote>
+        <?php 
+         echo $quotes[array_rand($quotes,1)];
+        ?>
 		</blockquote>
 	</div>
 </body>
