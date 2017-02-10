@@ -5,6 +5,8 @@ $quotes =
     'You can do anything, but not everything. —David Allen',
     'You miss 100 percent of the shots you never take. —Wayne Gretzky',
     'Even if you’re on the right track, you’ll get run over if you just sit there. —Will Roger',
+    'A wise man gets more use from his enemies than a fool from his friends. —Baltasar Gracian',
+    'The real voyage of discovery consists not in seeking new lands but seeing with new eyes. —Marcel Proust',
 ]
 
 ?>
